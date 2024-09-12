@@ -672,7 +672,7 @@ label {
 .header-top-contact ul {
     display: flex;
     align-items: center;
-    gap: 25px
+    gap: 15px
 }
 
 .header-top-contact a {
@@ -691,7 +691,7 @@ label {
 
 .header-top-link a {
     color: var(--color-white);
-    margin-right: 12px
+    margin-right: 1px
 }
 
 .header-top-link a:hover {
@@ -706,7 +706,7 @@ label {
     color: var(--color-white);
     font-size: 16px;
     text-align: center;
-    margin-left: 14px;
+    margin-left: 10px;
     transition: var(--transition)
 }
 
